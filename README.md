@@ -3,7 +3,7 @@
 ## [Домашнее задание к лекции «Компоненты»](https://github.com/TomSG03/ra16-homeworks/tree/master/components)
 
 - [x] Страница интернет-магазина (функциональный компонент)
-- [ ] [Страница интернет-магазина (class-based компонент)]()
+- [x] [Страница интернет-магазина (class-based компонент)](https://github.com/TomSG03/ra-component-class)
 
 ---
 [Спискок задач](https://github.com/TomSG03/ra-homeworks-list)
