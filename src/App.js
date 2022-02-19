@@ -1,3 +1,4 @@
+import './App.css';
 import ShopItemFunc from './ShopItemFunc';
 import item from './Item';
 
